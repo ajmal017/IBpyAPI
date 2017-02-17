@@ -30,6 +30,8 @@ from ibapi.message import OUT
 from ibapi.order import Order
 from ibapi.server_versions import *
 from ibapi.utils import (current_fn_name, BadMessage)
+from ibapi.scanner import ScannerSubscription
+
 
 
 #TODO: use pylint
