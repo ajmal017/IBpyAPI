@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/IBpyAPI.iml" filepath="$PROJECT_DIR$/.idea/IBpyAPI.iml" />
-      <module fileurl="file://$USER_HOME$/projects/twsapi_macunix/IBJts/source/pythonclient/.idea/pythonclient.iml" filepath="$USER_HOME$/projects/twsapi_macunix/IBJts/source/pythonclient/.idea/pythonclient.iml" />
     </modules>
   </component>
 </project>
